@@ -1,0 +1,11 @@
+dataset,records,cultivars,environments,environment_labels,records_by_environment,cultivars_in_all_environments,traits,duplicate_gid_env,missing_phenotypes,genomic_ids_cover_phenotypes,genomic_symmetric,missing_genomic_values,marker_ids_cover_phenotypes,missing_marker_values,environmental_covariates,genomic_source,environment_time_order
+EYT_1,3064,766,4,Bed5IR|EHT|Flat5IR|LHT,766|766|766|766,766,DTHD|DTMT|GY|Height,0,0,True,True,0.0,,,0,supplied_G,
+EYT_2,3875,775,5,Bed2IR|Bed5IR|EHT|Flat5IR|LHT,775|775|775|775|775,775,DTHD|DTMT|GY|Height,0,0,True,True,0.0,,,0,supplied_G,
+EYT_3,4820,964,5,Bed2IR|Bed5IR|Flat5IR|FlatDrip|LHT,964|964|964|964|964,964,DTHD|DTMT|GY|Height,0,0,True,True,0.0,,,0,supplied_G,
+Indica,981,327,3,2010|2011|2012,327|327|327,327,GY|PHR|GC|PH,0,0,False,,,True,0.0,54,markers_centred,2010|2011|2012
+Japonica,1151,320,5,2009|2010|2011|2012|2013,93|292|316|316|134,26,GY|PHR|GC|PH,0,0,False,,,True,0.0,54,markers_centred,2009|2010|2011|2012|2013
+Wheat_1,1773,1301,2,YT_13_14|YT_14_15,1301|472,472,GY,0,0,True,True,0.0,True,0.0,0,supplied_G,YT_13_14|YT_14_15
+Wheat_2,1933,1403,2,YT_14_15|YT_15_16,1337|596,530,GY,0,0,True,True,0.0,True,0.0,0,supplied_G,YT_14_15|YT_15_16
+Wheat_3,1717,1275,2,YT_15_16|YT_16_17,1161|556,442,GY,0,0,True,True,0.0,True,0.0,0,supplied_G,YT_15_16|YT_16_17
+Wheat_5,1895,1398,2,YT_17_18|YT_18_19,1386|509,497,GY,0,0,True,True,0.0,True,0.0,0,supplied_G,YT_17_18|YT_18_19
+Wheat_6,1400,1277,2,YT_18_19|YT_19_20,1276|124,123,GY,0,0,True,True,0.0,True,0.0,0,supplied_G,YT_18_19|YT_19_20
