@@ -1,0 +1,10 @@
+"dataset","model","metric","reference","partitions","mean_difference","sd_difference","se_difference","partitions_better"
+"Wheat_6","A_main","COR_within","B_Hadamard",1,-0.0321008655772392,NA,NA,0
+"Wheat_6","A_main","PM10_within","B_Hadamard",1,0.78125,NA,NA,1
+"Wheat_6","A_main","COR_pooled","B_Hadamard",1,-0.000417193861613097,NA,NA,0
+"Wheat_6","F_original","COR_within","B_Hadamard",1,0.0905483936594465,NA,NA,1
+"Wheat_6","F_original","PM10_within","B_Hadamard",1,11.4583333333333,NA,NA,1
+"Wheat_6","F_original","COR_pooled","B_Hadamard",1,0.0183028435089482,NA,NA,1
+"Wheat_6","M_masks","COR_within","B_Hadamard",1,-0.021907992515709,NA,NA,0
+"Wheat_6","M_masks","PM10_within","B_Hadamard",1,0,NA,NA,0
+"Wheat_6","M_masks","COR_pooled","B_Hadamard",1,-0.000282979537986838,NA,NA,0

@@ -1,0 +1,3 @@
+"dataset","records","product_relative_norm","degenerate","C0_delta_median","C0_delta_max","P0_delta_median","P0_delta_max","proposed_delta_max","mask_max_abs_change","reconstruction_delta"
+"Wheat_6",1400,0.949937286946363,FALSE,0.252239974884918,0.260059035526968,0.277105955847319,0.285695824578601,1.0799680813025e-15,0,0
+"Japonica",1151,0.0485268241530933,FALSE,0.823687233528804,0.828633715839209,1.26616496939251,1.27376865968685,2.36592943070857e-15,0,0

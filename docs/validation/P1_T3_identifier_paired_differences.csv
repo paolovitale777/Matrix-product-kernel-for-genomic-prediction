@@ -1,0 +1,13 @@
+"dataset","model","metric","reference","partitions","mean_difference","sd_difference","se_difference","partitions_better"
+"Wheat_6","F_original","COR_within","B_Hadamard",1,0.0905483936661214,NA,NA,1
+"Wheat_6","F_original","PM10_within","B_Hadamard",1,11.4583333333333,NA,NA,1
+"Wheat_6","F_original","COR_pooled","B_Hadamard",1,0.0183028435106253,NA,NA,1
+"Wheat_6","F_shuffled","COR_within","B_Hadamard",1,-0.00789524719390139,NA,NA,0
+"Wheat_6","F_shuffled","PM10_within","B_Hadamard",1,9.11458333333334,NA,NA,1
+"Wheat_6","F_shuffled","COR_pooled","B_Hadamard",1,-0.00208796684546653,NA,NA,0
+"Wheat_6","R5_id_fixed","COR_within","B_Hadamard",1,-0.00205787186955803,NA,NA,0
+"Wheat_6","R5_id_fixed","PM10_within","B_Hadamard",1,0.78125,NA,NA,1
+"Wheat_6","R5_id_fixed","COR_pooled","B_Hadamard",1,-0.00100248059470642,NA,NA,0
+"Wheat_6","R6_id_kernel","COR_within","B_Hadamard",1,0.109973524415769,NA,NA,1
+"Wheat_6","R6_id_kernel","PM10_within","B_Hadamard",1,26.5625,NA,NA,1
+"Wheat_6","R6_id_kernel","COR_pooled","B_Hadamard",1,0.0234008568185605,NA,NA,1
